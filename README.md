@@ -8,18 +8,19 @@ I'm Adam, a full-stack developer, specifically working with MERN stack.
 
 # 💬 Ask me about:
 
-    [] Single Page Apps
-    [] Command Line Tools
+    - Single Page Apps
+    - Command Line Tools
+    - Database Joins and Aggregations
 
 # 📫 How to reach me:
 
-    [] [Email](mailto://adamfarver@gmail.com)
-    [] [Twitter](http://www.twitter.com/adamfarver)
+    - [Email](mailto://adamfarver@gmail.com)
+    - [Twitter](http://www.twitter.com/adamfarver)
 
 # ⚡ Fun facts:
 
-    [] Amateur Radio Operator (General Class)
-    [] Owner of Chihuahua/Maltese mix, AKA Mal-Cheese
+    - Amateur Radio Operator (General Class)
+    - Owner of Chihuahua/Maltese mix, AKA Mal-Cheese
 
 <!--
 **adamfarver/adamfarver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
