@@ -14,7 +14,6 @@ I'm Adam, a full-stack developer, specifically working with MERN stack.
 
 # 📫 How to reach me:
 
-    - [Email](mailto://adamfarver@gmail.com)
     - [Twitter](http://www.twitter.com/adamfarver)
 
 # ⚡ Fun facts:
