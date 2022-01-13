@@ -12,10 +12,6 @@ I'm Adam, a full-stack developer, specifically working with MERN stack.
     - Command Line Tools
     - Database Joins and Aggregations
 
-# 📫 How to reach me:
-
-     [Twitter](http://www.twitter.com/adamfarver)
-
 # ⚡ Fun facts:
 
     - Amateur Radio Operator (General Class)
